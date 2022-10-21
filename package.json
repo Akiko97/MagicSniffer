@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Sorapointa/MagicSniffer#readme",
   "dependencies": {
     "pcap-parser": "^0.2.1",
-    "node-kcp-token": "github:TheLostTree/node-kcp"
+    "node-kcp-token": "github:Akiko97/node-kcp"
   }
 }
